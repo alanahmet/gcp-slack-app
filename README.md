@@ -36,3 +36,5 @@ pip install -r requirements.txt
 #### 4. Set up the keys in a .env file
 
 Now your Python environment is set up, and you can proceed with running the experiments.
+
+Tutorial slack app https://github.com/daveebbelaar/langchain-experiments
